@@ -21,7 +21,7 @@ export class AppComponent {
     {id:6,name:'Plot my world domination plan'},
   ];
 
-  // constructor(){
-  //   this.karenapp=["watch movies","read more","read again"]
-  }
+  constructor(){
 
+  }
+}
